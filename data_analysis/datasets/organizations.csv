@@ -1,0 +1,18 @@
+country,created_at,data_type,description,name,organization_id,updated_at,website
+,2025-07-19T19:49:05.762555+00:00,organization,NLP AI company,AI21 Labs,ai21,2025-07-19T19:49:05.762555+00:00,https://ai21.com
+,2025-07-19T19:49:05.427427+00:00,organization,Cloud and AI services,Amazon,amazon,2025-07-19T19:49:05.427427+00:00,https://aws.amazon.com
+US,2025-07-19T19:49:05.736520+00:00,organization,AI safety company,Anthropic,anthropic,2025-07-19T19:49:05.736520+00:00,https://anthropic.com
+CA,2025-07-19T19:49:05.404836+00:00,organization,Enterprise AI company,Cohere,cohere,2025-07-19T19:49:05.404836+00:00,https://cohere.ai
+CN,2025-07-19T19:49:05.655332+00:00,organization,Chinese AI company developing state-of-the-art large language models including the DeepSeek-V3 series with mixture-of-experts architecture and hybrid thinking/non-thinking capabilities,DeepSeek,deepseek,2025-09-15T00:00:00.000000+00:00,https://deepseek.com
+US,2025-07-19T19:49:05.437977+00:00,organization,Technology giant with AI research,Google,google,2025-07-19T19:49:05.437977+00:00,https://google.com
+,2025-07-19T19:49:05.719047+00:00,organization,Technology and consulting company,IBM,ibm,2025-07-19T19:49:05.719047+00:00,https://ibm.com
+US,2025-07-19T19:49:05.572641+00:00,organization,Social media company with AI research,Meta,meta,2025-07-19T19:49:05.572641+00:00,https://meta.com
+US,2025-07-19T19:49:05.543205+00:00,organization,Technology company,Microsoft,microsoft,2025-07-19T19:49:05.543205+00:00,https://microsoft.com
+FR,2025-07-19T19:49:05.769198+00:00,organization,French AI company,Mistral AI,mistral,2025-07-19T19:49:05.769198+00:00,https://mistral.ai
+CN,2025-07-19T19:49:05.419295+00:00,organization,"Chinese AI company developing the Kimi series of large language models, including state-of-the-art mixture-of-experts models with long-context capabilities",Moonshot AI,moonshotai,2025-09-15T00:00:00.000000+00:00,https://moonshot.cn
+US,2025-07-19T19:49:05.728519+00:00,organization,GPU and AI company,NVIDIA,nvidia,2025-07-19T19:49:05.728519+00:00,https://nvidia.com
+US,2025-07-19T19:49:05.815252+00:00,organization,Leading AI research company,OpenAI,openai,2025-07-19T19:49:05.815252+00:00,https://openai.com
+CN,2025-07-19T19:49:05.604449+00:00,organization,"The Qwen Team from Alibaba Cloud, developing the Qwen series of large language models including state-of-the-art mixture-of-experts and thinking-enabled models",Alibaba Cloud / Qwen Team,qwen,2025-09-15T00:00:00.000000+00:00,https://qwenlm.github.io
+,2025-08-03T22:06:10.791768+00:00,organization,Default organization for missing data,Unknown,unknown,2025-08-03T22:06:10.791768+00:00,
+US,2025-07-19T19:49:05.695344+00:00,organization,Elon Musk AI company,xAI,xai,2025-07-19T19:49:05.695344+00:00,https://x.ai
+CN,2025-09-15T00:00:00.000000+00:00,organization,Zhipu AI is a Chinese AI company that provides a suite of AI tools and services.,Zhipu AI,zai-org,2025-09-15T00:00:00.000000+00:00,https://z.ai

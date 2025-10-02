@@ -1,0 +1,24 @@
+allow_commercial,created_at,data_type,description,license_id,name,updated_at
+True,2025-07-19T19:49:05.605369+00:00,license,Apache License 2.0 - allows commercial use,apache_2_0,Apache 2.0,2025-07-19T19:49:05.605369+00:00
+False,2025-07-19T19:49:05.408956+00:00,license,Creative Commons Non-Commercial,cc_by_nc,CC BY-NC,2025-07-19T19:49:05.408956+00:00
+False,2025-07-19T19:49:05.471773+00:00,license,Creative Commons Attribution 4.0 License license,creative_commons_attribution_4_0_license,Creative Commons Attribution 4.0 License,2025-07-19T19:49:05.471773+00:00
+False,2025-07-19T19:49:05.656652+00:00,license,deepseek license,deepseek,deepseek,2025-07-19T19:49:05.656652+00:00
+True,2025-07-19T19:49:05.442645+00:00,license,Google Gemma Terms of Use,gemma,Gemma,2025-07-19T19:49:05.442645+00:00
+False,2025-07-19T19:49:05.510423+00:00,license,Health AI Developer Foundations terms of use license,health_ai_developer_foundations_terms_of_use,Health AI Developer Foundations terms of use,2025-07-19T19:49:05.510423+00:00
+False,2025-07-19T19:49:05.763778+00:00,license,Jamba Open Model License license,jamba_open_model_license,Jamba Open Model License,2025-07-19T19:49:05.763778+00:00
+True,2025-07-19T19:49:05.578287+00:00,license,Meta Llama 3.2 Community License,llama3_2,Llama 3.2,2025-07-19T19:49:05.578287+00:00
+False,2025-07-19T19:49:05.574080+00:00,license,Llama 3.1 Community License license,llama_3_1_community_license,Llama 3.1 Community License,2025-07-19T19:49:05.574080+00:00
+False,2025-07-19T19:49:05.587308+00:00,license,Llama 3.2 Community License license,llama_3_2_community_license,Llama 3.2 Community License,2025-07-19T19:49:05.587308+00:00
+False,2025-07-19T19:49:05.602167+00:00,license,Llama 3.3 Community License Agreement license,llama_3_3_community_license_agreement,Llama 3.3 Community License Agreement,2025-07-19T19:49:05.602167+00:00
+False,2025-07-19T19:49:05.593881+00:00,license,Llama 4 Community License Agreement license,llama_4_community_license_agreement,Llama 4 Community License Agreement,2025-07-19T19:49:05.593881+00:00
+False,2025-07-19T19:49:05.785093+00:00,license,Mistral Research License license,mistral_research_license,Mistral Research License,2025-07-19T19:49:05.785093+00:00
+False,2025-07-19T19:49:05.911442+00:00,license,Mistral Research License (MRL) for research; Mistral Commercial License for commercial use license,mistral_research_license_(mrl)_for_research;_mistral_commercial_license_for_commercial_use,Mistral Research License (MRL) for research; Mistral Commercial License for commercial use,2025-07-19T19:49:05.911442+00:00
+True,2025-07-19T19:49:05.544627+00:00,license,MIT License - allows commercial use,mit,MIT,2025-07-19T19:49:05.544627+00:00
+False,2025-07-19T19:49:05.676049+00:00,license,MIT + Model License (Commercial use allowed) license,mit_+_model_license_(commercial_use_allowed),MIT + Model License (Commercial use allowed),2025-07-19T19:49:05.676049+00:00
+False,2025-07-19T19:49:05.897679+00:00,license,MIT License license,mit_license,MIT License,2025-07-19T19:49:05.897679+00:00
+False,2025-07-19T19:49:05.804469+00:00,license,MNPL-0.1 license,mnpl_0_1,MNPL-0.1,2025-07-19T19:49:05.804469+00:00
+False,2025-07-19T19:49:05.420757+00:00,license,Modified MIT License license,modified_mit_license,Modified MIT License,2025-07-19T19:49:05.420757+00:00
+False,2025-07-19T19:49:05.425183+00:00,license,Proprietary license - usage restrictions apply,proprietary,Proprietary,2025-07-19T19:49:05.425183+00:00
+True,2025-07-19T19:49:05.626726+00:00,license,Alibaba Qwen License,qwen,Qwen,2025-07-19T19:49:05.626726+00:00
+False,2025-07-19T19:49:05.618579+00:00,license,tongyi-qianwen license,tongyi_qianwen,tongyi-qianwen,2025-07-19T19:49:05.618579+00:00
+False,2025-08-03T22:06:10.793734+00:00,license,Unknown license,unknown,Unknown,2025-08-03T22:06:10.793734+00:00
